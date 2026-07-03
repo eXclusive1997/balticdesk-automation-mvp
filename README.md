@@ -1,0 +1,1 @@
+# balticdesk-automation-mvp
